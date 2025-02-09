@@ -1,0 +1,9 @@
+1-)i have installed the express to get to response and request to the server 
+2-)npm i nodemon - d   (as i have to kill the server again and agin as i make changes in the code so nodemon make it easy for me to keep changes in the code without restarting in the server )
+
+username = imkhamzadev
+password = 3JEyPBoeNGJUYcIh
+
+"(connection string = mongosh "mongodb+srv://crud-app-cluster-node.1a1yr.mongodb.net/" --apiVersion 1 --username imkhamzadev --password 3JEyPBoeNGJUYcIh)"
+
+new connection =  mongodb+srv://imkhamzadev:<db_password>@crud-app-cluster-node.1a1yr.mongodb.net/?retryWrites=true&w=majority&appName=crud-app-cluster-node
